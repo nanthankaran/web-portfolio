@@ -10,7 +10,6 @@
 [![GitHub forks](https://img.shields.io/github/forks/nanthankaran/nanthankaran.github.io)](https://github.com/nanthankaran/nanthankaran.github.io/network)
 [![GitHub issues](https://img.shields.io/github/issues/nanthankaran/nanthankaran.github.io)](https://github.com/nanthankaran/nanthankaran.github.io/issues)
 
-![Portfolio Screenshot](portfolio-screenshot.png)
 
 Check out my portfolio live at **[https://codecrafting-adventures.on.drv.tw/k_20_8/](https://codecrafting-adventures.on.drv.tw/k_20_8/)**
 
