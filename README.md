@@ -1,3 +1,7 @@
+![Screenshot of the project](https://github.com/nanthankaran/web-portfolio/blob/master/Screenshot%202023-10-08%20174636.png)
+
+
+
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
@@ -30,6 +34,8 @@ Check out my portfolio live at **[https://codecrafting-adventures.on.drv.tw/k_20
 4. To deploy your website, create a GitHub repository with the name `<your-github-username>.github.io`.
 5. Push the generated code to the `master` branch of your GitHub repository.
 6. Note: Set `analyticsId` from your Google Analytics account inside the Google Analytics script tag, if you want to use your own Google Analytics account.
+   ![Screenshot of the project](https://github.com/nanthankaran/web-portfolio/blob/master/Screenshot%202023-10-08%20174646.png)
+
 
 ## Sections 📚
 - About me
@@ -60,3 +66,5 @@ Check out my portfolio live at **[https://codecrafting-adventures.on.drv.tw/k_20
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+
+![Screenshot of the project](https://github.com/nanthankaran/web-portfolio/blob/master/Screenshot%202023-10-08%20174656.png)
